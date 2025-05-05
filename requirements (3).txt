@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+transformers
+torch
+faiss-cpu
+sentence-transformers
+sentencepiece
+pydantic
+pymupdf
+python-docx
